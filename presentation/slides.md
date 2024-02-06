@@ -178,7 +178,7 @@ transition: fade-out
 
 # Data Analysis - Univariate - H1-B Approval Rate
 
-<img src="assets/h1bapproval.png" alt="1" style="width: 100%;"/>
+<img src="/h1bapproval.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -186,7 +186,7 @@ transition: fade-out
 
 # Data Analysis - Univariate - Popular Job Titles
 
-<img src="assets/poproles.png" alt="1" style="width: 100%;"/>
+<img src="/poproles.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -194,7 +194,7 @@ transition: fade-out
 
 # Data Analysis - Univariate - Popular Employers
 
-<img src="assets/topemployers.png" alt="1" style="width: 100%;"/>
+<img src="/topemployers.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -202,7 +202,7 @@ transition: fade-out
 
 # Data Analysis - Univariate - Popular States
 
-<img src="assets/state.png" alt="1" style="width: 100%;"/>
+<img src="/state.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -210,7 +210,7 @@ transition: fade-out
 
 # Data Analysis - Univariate - Year Distribution
 
-<img src="assets/year.png" alt="1" style="width: 100%;"/>
+<img src="/year.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -218,7 +218,7 @@ transition: fade-out
 
 # Data Analysis - Univariate - Salary (full range)
 
-<img src="assets/salary.png" alt="1" style="width: 100%;"/>
+<img src="/salary.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -226,7 +226,7 @@ transition: fade-out
 
 # Data Analysis - Univariate - Salary (all salaries under $250,000, >95% of data)
 
-<img src="assets/salary250.png" alt="1" style="width: 100%;"/>
+<img src="/salary250.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -234,7 +234,7 @@ transition: fade-out
 
 # Data Analysis - Bivariate - Top Paying Roles
 
-<img src="assets/toppayingroles.png" alt="1" style="width: 100%;"/>
+<img src="/toppayingroles.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -242,7 +242,7 @@ transition: fade-out
 
 # Data Analysis - Bivariate - Top Paying Employers
 
-<img src="assets/toppayingemployers.png" alt="1" style="width: 100%;"/>
+<img src="/toppayingemployers.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -250,7 +250,7 @@ transition: fade-out
 
 # Data Analysis - Bivariate - Top Paying States
 
-<img src="assets/toppayingstates.png" alt="1" style="width: 100%;"/>
+<img src="/toppayingstates.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -258,7 +258,7 @@ transition: fade-out
 
 # Data Analysis - Bivariate - Salary by Year
 
-<img src="assets/paybyyear.png" alt="1" style="width: 100%;"/>
+<img src="/paybyyear.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -266,7 +266,7 @@ transition: fade-out
 
 # Data Analysis - Bivariate - Most Accepted Job Titles
 
-<img src="assets/mostacceptedtitles.png" alt="1" style="width: 100%;"/>
+<img src="/mostacceptedtitles.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -274,7 +274,7 @@ transition: fade-out
 
 # Data Analysis - Bivariate - Least Accepted Job Titles
 
-<img src="assets/leastacceptedtitles.png" alt="1" style="width: 100%;"/>
+<img src="/leastacceptedtitles.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -282,7 +282,7 @@ transition: fade-out
 
 # Data Analysis - Bivariate - Most Accepted Employers
 
-<img src="assets/mostacceptedemployers.png" alt="1" style="width: 100%;"/>
+<img src="/mostacceptedemployers.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -290,7 +290,7 @@ transition: fade-out
 
 # Data Analysis - Bivariate - Least Accepted Employers
 
-<img src="assets/leastacceptedemployers.png" alt="1" style="width: 100%;"/>
+<img src="/leastacceptedemployers.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
@@ -298,7 +298,7 @@ transition: fade-out
 
 # Data Analysis - Bivariate - Full-Time vs Part-Time Acceptance Rate
 
-<img src="assets/typeacceptance.png" alt="1" style="width: 100%;"/>
+<img src="/typeacceptance.png" alt="1" style="width: 100%;"/>
 
 ---
 transition: fade-out
