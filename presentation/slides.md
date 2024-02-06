@@ -8,17 +8,13 @@ drawings:
   persist: false
 defaults:
   foo: true
-transition: slide-left
+transition: fade-out
 title: ATCS Data Analysis Project
 mdc: true
 ---
 
 # H1-B Visa Data Analysis
 #### ATCS Data Analysis Project by Alexandre H.
-
-<!--
-Notes: 
--->
 
 ---
 transition: fade-out
@@ -35,8 +31,8 @@ transition: fade-out
 ### What:
 - 📊 Contains information about H1-B Visa petitions from 2015 to 2019
 - 📈 Includes information about the employer, the job, the location, and the employee
-- 📜 Only includes data from certain states (Pennsylvania, Illionois, New York, Michigan, Ohio,
-      'Minnesota, Indiana, Wisconsin)
+- 📜 Only includes data from certain states (Pennsylvania, Illionois, New York, Michigan, Ohio, Minnesota, Indiana, Wisconsin)
+
 
 ---
 transition: fade-out
@@ -345,5 +341,3 @@ transition: fade-out
 3. How is this beneficial?
 - Can help employers/employees understand the likelihood of their job being accepted
 - Can help employees better understand the average salary for their job
-
-
