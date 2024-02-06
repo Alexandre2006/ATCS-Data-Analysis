@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: https://images.unsplash.com/photo-1581553672347-95d9444c0d2c
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -155,6 +155,7 @@ transition: fade-out
 ---
 
 # Preparation - Data Preview
+###### 857,139 rows
 <Transform :scale="0.75">
 
 |        Column       |           Value           |                    Info                    |
